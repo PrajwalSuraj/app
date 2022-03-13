@@ -1,0 +1,20 @@
+.mat-toolbar{
+    background-color: cornflowerblue;
+    color: white;
+  }
+  .mat-button{
+     color: white;
+  }
+  .spacer{
+    flex: 1 1 auto;
+  }
+.img-container{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+.clearflix ::after{
+    content: "";
+    clear: both;
+    display: table;
+}
